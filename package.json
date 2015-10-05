@@ -1,0 +1,31 @@
+{
+  "name": "os2woo",
+  "version": "0.0.1",
+  "description": "Tool to import a OsCommerce store (database) into a Worpress/WooCommerce installation ",
+  "main": "os2woo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelcar/node-os2woo.git"
+  },
+  "keywords": [
+    "woocommerce",
+    "wordpress",
+    "oscommerce",
+    "cli"
+  ],
+  "author": "Samuel Carvajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelcar/node-os2woo/issues"
+  },
+  "homepage": "https://github.com/samuelcar/node-os2woo#readme",
+  "dependencies": {
+    "async": "^1.4.2",
+    "chalk": "^1.1.1",
+    "progress": "^1.1.8",
+    "woocommerce-api": "^1.0.2"
+  }
+}
