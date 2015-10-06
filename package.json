@@ -25,7 +25,10 @@
   "dependencies": {
     "async": "^1.4.2",
     "chalk": "^1.1.1",
+    "mysql": "^2.9.0",
     "progress": "^1.1.8",
+    "sequelize": "^3.11.0",
+    "sqlite3": "^3.1.0",
     "woocommerce-api": "^1.0.2"
   }
 }
