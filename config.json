@@ -1,0 +1,13 @@
+{
+  "OsCommerce":{
+    "host": "localhost",
+    "user": "test",
+    "password": "test",
+    "database": "test",
+    "client": "mysql",
+    "charset": "utf-8"
+  },
+  "Local": {
+    "filename": "./storage/local.sqlite"
+  }
+}

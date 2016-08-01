@@ -24,11 +24,16 @@
   "homepage": "https://github.com/samuelcar/node-os2woo#readme",
   "dependencies": {
     "async": "^1.4.2",
+    "bookshelf": "^0.10.0",
     "chalk": "^1.1.1",
+    "knex": "^0.11.9",
     "mysql": "^2.9.0",
     "progress": "^1.1.8",
     "sequelize": "^3.11.0",
-    "sqlite3": "^3.1.0",
+    "sqlite3": "^3.1.4",
     "woocommerce-api": "^1.0.2"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
   }
 }
